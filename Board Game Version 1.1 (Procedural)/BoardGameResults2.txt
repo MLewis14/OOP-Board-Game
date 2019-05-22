@@ -1,0 +1,252 @@
+5 players have been selected.
+Player 1 is Michael
+Player 2 is Shawn
+Player 3 is Pauline
+Player 4 is Alexis
+Player 5 is Jessica
+The card pile has been shuffled.
+This Board has 23 spaces.
+The first player will be Shawn.
+Shawn has drawn a 0.
+You lose a turn.
+Pauline has drawn a 8.
+Pauline has advanced 8 spaces.
+Pauline is now on space 8.
+Alexis has drawn a 4.
+Alexis has advanced 4 spaces.
+Alexis is now on space 4.
+Jessica has drawn a 8.
+Jessica has advanced 8 spaces.
+Jessica is now on space 8.
+Michael has drawn a 10.
+Swapping places with the player furthest ahead.
+Swapping places with player Jessica.
+Jessica is now on space 0.
+Michael is now on space 8
+Shawn has drawn a 3.
+Shawn has advanced 3 spaces.
+Shawn is now on space 3.
+Pauline has drawn a 3.
+Pauline has advanced 3 spaces.
+Pauline is now on space 3.
+Alexis has drawn a 8.
+Alexis has advanced 8 spaces.
+Alexis is now on space 12.
+Jessica has drawn a 6.
+Jessica has advanced 6 spaces.
+Jessica is now on space 6.
+Michael has drawn a 8.
+Michael has advanced 8 spaces.
+Michael is now on space 16.
+Shawn has drawn a 5.
+Shawn has advanced 5 spaces.
+Shawn is now on space 5.
+Pauline has drawn a 1.
+Pauline has advanced 1 spaces.
+Pauline is now on space 4.
+Alexis has drawn a 8.
+Alexis has advanced 8 spaces.
+Alexis is now on space 20.
+Jessica has drawn a 8.
+Jessica has advanced 8 spaces.
+Jessica is now on space 14.
+Michael has drawn a 3.
+Michael has advanced 3 spaces.
+Michael is now on space 19.
+You have encountered an obstacle.
+Michael has gone back to space 17
+You have encountered an obstacle.
+Michael has gone back to space 16
+Shawn has drawn a 8.
+Shawn has advanced 8 spaces.
+Shawn is now on space 13.
+Pauline has drawn a 0.
+You lose a turn.
+Alexis has drawn a 5.
+Alexis has advanced 5 spaces.
+Alexis is now on space 25.
+Alexis skipped over 2spaces.
+Alexis has gone back to space 21.
+Jessica has drawn a 4.
+Jessica has advanced 4 spaces.
+Jessica is now on space 18.
+Michael has drawn a 8.
+Michael has advanced 8 spaces.
+Michael is now on space 24.
+Michael skipped over 1spaces.
+Michael has gone back to space 22.
+You have encountered an obstacle.
+Michael has gone back to space 21
+Shawn has drawn a 7.
+Shawn has advanced 7 spaces.
+Shawn is now on space 20.
+Pauline has drawn a 10.
+Swapping places with the player furthest ahead.
+Swapping places with player Jessica.
+Jessica is now on space 4.
+Pauline is now on space 18
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+Alexis is now on space 1.
+Jessica has drawn a 3.
+Jessica has advanced 3 spaces.
+Jessica is now on space 7.
+Michael has drawn a 4.
+Michael has advanced 4 spaces.
+Michael is now on space 25.
+Michael skipped over 2spaces.
+Michael has gone back to space 21.
+Shawn has drawn a 8.
+Shawn has advanced 8 spaces.
+Shawn is now on space 28.
+Shawn skipped over 5spaces.
+Shawn has gone back to space 18.
+Pauline has drawn a 0.
+You lose a turn.
+Alexis has drawn a 10.
+Swapping places with the player furthest ahead.
+Swapping places with player Jessica.
+Jessica is now on space 1.
+Alexis is now on space 7
+Jessica has drawn a 0.
+You lose a turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+Michael is now on space 22.
+You have encountered an obstacle.
+Michael has gone back to space 21
+Shawn has drawn a 7.
+Shawn has advanced 7 spaces.
+Shawn is now on space 25.
+Shawn skipped over 2spaces.
+Shawn has gone back to space 21.
+Pauline has drawn a 0.
+You lose a turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+Alexis is now on space 13.
+Jessica has drawn a 2.
+Jessica has advanced 2 spaces.
+Jessica is now on space 3.
+Michael has drawn a 2.
+Michael has advanced 2 spaces.
+Michael is now on space 2.
+Shawn has drawn a 4.
+Shawn has advanced 4 spaces.
+Shawn is now on space 25.
+Shawn skipped over 2spaces.
+Shawn has gone back to space 21.
+Pauline has drawn a 5.
+Pauline has advanced 5 spaces.
+Pauline is now on space 5.
+Alexis has drawn a 2.
+Alexis has advanced 2 spaces.
+Alexis is now on space 15.
+Jessica has drawn a 0.
+You lose a turn.
+Michael has drawn a 2.
+Michael has advanced 2 spaces.
+Michael is now on space 4.
+Shawn has drawn a 3.
+Shawn has advanced 3 spaces.
+Shawn is now on space 24.
+Shawn skipped over 1spaces.
+Shawn has gone back to space 22.
+You have encountered an obstacle.
+Shawn has gone back to space 19
+Pauline has drawn a 3.
+Pauline has advanced 3 spaces.
+Pauline is now on space 8.
+Alexis has drawn a 10.
+Swapping places with the player furthest ahead.
+Swapping places with player Shawn.
+Shawn is now on space 15.
+Alexis is now on space 19
+You have encountered an obstacle.
+Alexis has gone back to space 17
+You have encountered an obstacle.
+Alexis has gone back to space 14
+Jessica has drawn a 0.
+You lose a turn.
+Michael has drawn a 4.
+Michael has advanced 4 spaces.
+Michael is now on space 8.
+Shawn has drawn a 7.
+Shawn has advanced 7 spaces.
+Shawn is now on space 22.
+You have encountered an obstacle.
+Shawn has gone back to space 20
+Pauline has drawn a 2.
+Pauline has advanced 2 spaces.
+Pauline is now on space 2.
+Alexis has drawn a 5.
+Alexis has advanced 5 spaces.
+Alexis is now on space 19.
+You have encountered an obstacle.
+Alexis has gone back to space 18
+Jessica has drawn a 10.
+Swapping places with the player furthest ahead.
+Swapping places with player Alexis.
+Alexis is now on space 3.
+Jessica is now on space 18
+Michael has drawn a 0.
+You lose a turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+Shawn is now on space 21.
+Pauline has drawn a 3.
+Pauline has advanced 3 spaces.
+Pauline is now on space 5.
+Alexis has drawn a 3.
+Alexis has advanced 3 spaces.
+Alexis is now on space 6.
+Jessica has drawn a 0.
+You lose a turn.
+Michael has drawn a 0.
+You lose a turn.
+Shawn has drawn a 10.
+Swapping places with the player furthest ahead.
+There are no players ahead of you, unable to swap places.
+Pauline has drawn a 2.
+Pauline has advanced 2 spaces.
+Pauline is now on space 7.
+Alexis has drawn a 2.
+Alexis has advanced 2 spaces.
+Alexis is now on space 8.
+Jessica has drawn a 2.
+Jessica has advanced 2 spaces.
+Jessica is now on space 20.
+Michael has drawn a 3.
+Michael has advanced 3 spaces.
+Michael is now on space 3.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+Shawn is now on space 27.
+Shawn skipped over 4spaces.
+Shawn has gone back to space 19.
+You have encountered an obstacle.
+Shawn has gone back to space 16
+Pauline has drawn a 1.
+Pauline has advanced 1 spaces.
+Pauline is now on space 8.
+Alexis has drawn a 0.
+You lose a turn.
+Jessica has drawn a 6.
+Jessica has advanced 6 spaces.
+Jessica is now on space 26.
+Jessica skipped over 3spaces.
+Jessica has gone back to space 20.
+Michael has drawn a 0.
+You lose a turn.
+Shawn has drawn a 0.
+You lose a turn.
+Pauline has drawn a 7.
+Pauline has advanced 7 spaces.
+Pauline is now on space 15.
+Alexis has drawn a 0.
+You lose a turn.
+Jessica has drawn a 3.
+Jessica has advanced 3 spaces.
+Jessica is now on space 23.
+Jessica has reached the end of the board!
+Game Over!
