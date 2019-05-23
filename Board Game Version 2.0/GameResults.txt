@@ -1,0 +1,980 @@
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 0.
+Tae is on space 0.
+Alexis is on space 0.
+Jeremy is on space 0.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+No players are ahead of you. Unable to swap spaces.
+Michael has landed on Shawn's spot.
+Shawn has been sent back to square 0.
+Michael has landed on Tae's spot.
+Tae has been sent back to square 0.
+Michael has landed on Alexis's spot.
+Alexis has been sent back to square 0.
+Michael has landed on Jeremy's spot.
+Jeremy has been sent back to square 0.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 2 spaces.
+Shawn is now on board space 2.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 5 spaces.
+Tae is now on board space 5.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 8 spaces.
+Alexis is now on board space 8.
+Alexis has landed on Tae's spot.
+Tae has been sent back to square 0.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 3 spaces.
+Jeremy is now on board space 3.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 2 spaces.
+Aj is now on board space 2.
+Aj has landed on Shawn's spot.
+Shawn has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 0.
+Tae is on space 0.
+Alexis is on space 5.
+Jeremy is on space 3.
+Aj is on space 2.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 9 spaces.
+Michael is now on board space 9.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has drawn a 0 and has lost a turn.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 6 spaces.
+Tae is now on board space 6.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 5 spaces.
+Alexis is now on board space 10.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 3 spaces.
+Jeremy is now on board space 6.
+Jeremy has landed on Tae's spot.
+Tae has been sent back to square 0.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 9.
+Shawn is on space 0.
+Tae is on space 0.
+Alexis is on space 10.
+Jeremy is on space 6.
+Aj is on space 2.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 3.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 13.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 12.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 10.
+Aj has landed on Tae's spot.
+Tae has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 3.
+Tae is on space 0.
+Alexis is on space 13.
+Jeremy is on space 12.
+Aj is on space 10.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Tae's spot.
+Tae has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 10.
+Shawn has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 9.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 14.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 17.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 10.
+Tae is on space 9.
+Alexis is on space 14.
+Jeremy is on space 17.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 13.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 18.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 6.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Michael is on space 9.
+Shawn is on space 13.
+Tae is on space 17.
+Alexis is on space 18.
+Jeremy is on space 6.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 13.
+Michael has landed on Shawn's spot.
+Shawn has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 7.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 26.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 19.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 11.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 13.
+Shawn is on space 7.
+Tae is on space 26.
+Alexis is on space 16.
+Jeremy is on space 11.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 10.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 20.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 17.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Michael is on space 13.
+Shawn is on space 10.
+Tae is on space 26.
+Alexis is on space 20.
+Jeremy is on space 17.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 17.
+Michael has landed on Jeremy's spot.
+Jeremy has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 17.
+Shawn has landed on Michael's spot.
+Michael has been sent back to square 0.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 35.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 21.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 5.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 17.
+Tae is on space 35.
+Alexis is on space 21.
+Jeremy is on space 5.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 20.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 25.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 11.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 20.
+Tae is on space 35.
+Alexis is on space 25.
+Jeremy is on space 11.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 27.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 44.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 26.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 16.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 27.
+Tae is on space 44.
+Alexis is on space 26.
+Jeremy is on space 16.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 30.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 30.
+Alexis has landed on Shawn's spot.
+Shawn has been sent back to square 0.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 22.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Aj has landed on Shawn's spot.
+Shawn has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 0.
+Tae is on space 44.
+Alexis is on space 30.
+Jeremy is on space 22.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Shawn's spot.
+Shawn has been sent back to square 0.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 7.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 53.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 31.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 27.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 7.
+Tae is on space 53.
+Alexis is on space 31.
+Jeremy is on space 27.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 10.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 35.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 33.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 10.
+Tae is on space 53.
+Alexis is on space 35.
+Jeremy is on space 32.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 17.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 62.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 36.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 37.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 17.
+Tae is on space 62.
+Alexis is on space 36.
+Jeremy is on space 37.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 20.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 40.
+Alexis has landed on Jeremy's spot.
+Jeremy has been sent back to square 0.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 6.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 20.
+Tae is on space 62.
+Alexis is on space 37.
+Jeremy is on space 6.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 27.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 9 spaces.
+Tae is now on board space 71.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 38.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 11.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 27.
+Tae is on space 71.
+Alexis is on space 38.
+Jeremy is on space 11.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 30.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 42.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 17.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 30.
+Tae is on space 71.
+Alexis is on space 42.
+Jeremy is on space 17.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 37.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has gone over the winning square by 7.
+Tae has gone back 7 spaces to square 66.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 43.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 22.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 37.
+Tae is on space 66.
+Alexis is on space 43.
+Jeremy is on space 22.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 40.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 47.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 28.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 37.
+Tae is on space 66.
+Alexis is on space 47.
+Jeremy is on space 28.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 44.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has gone over the winning square by 2.
+Tae has gone back 2 spaces to square 71.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 48.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 33.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 44.
+Tae is on space 71.
+Alexis is on space 48.
+Jeremy is on space 30.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 47.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 52.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 36.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 47.
+Tae is on space 71.
+Alexis is on space 49.
+Jeremy is on space 36.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 54.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has gone over the winning square by 7.
+Tae has gone back 7 spaces to square 66.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 50.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 41.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 54.
+Tae is on space 66.
+Alexis is on space 50.
+Jeremy is on space 41.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 57.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has earned a chance to swap places.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 4 spaces.
+Alexis is now on board space 54.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 6 spaces.
+Jeremy is now on board space 47.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 8 spaces.
+Aj is now on board space 8.
+Aj has landed on Michael's spot.
+Michael has been sent back to square 0.
+Michael is on space 0.
+Shawn is on space 57.
+Tae is on space 66.
+Alexis is on space 54.
+Jeremy is on space 47.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 4 spaces.
+Michael is now on board space 4.
+Michael has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 7 spaces.
+Shawn is now on board space 64.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has gone over the winning square by 2.
+Tae has gone back 2 spaces to square 71.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 1 spaces.
+Alexis is now on board space 55.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 5 spaces.
+Jeremy is now on board space 52.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has drawn a 0 and has lost a turn.
+Michael is on space 0.
+Shawn is on space 64.
+Tae is on space 71.
+Alexis is on space 55.
+Jeremy is on space 49.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 3 spaces.
+Shawn is now on board space 67.
+Shawn has earned an extra turn!
+Shawn has earned a chance to swap places.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 4 spaces.
+Tae is now on board space 4.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 6 spaces.
+Alexis is now on board space 61.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 8 spaces.
+Jeremy is now on board space 57.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 4 spaces.
+Aj is now on board space 4.
+Michael is on space 67.
+Shawn is on space 71.
+Tae is on space 1.
+Alexis is on space 60.
+Jeremy is on space 57.
+Aj is on space 0.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has gone over the winning square by 1.
+Michael has gone back 1 spaces to square 72.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has gone over the winning square by 7.
+Shawn has gone back 7 spaces to square 66.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 1 spaces.
+Tae is now on board space 2.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 5 spaces.
+Alexis is now on board space 65.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has drawn a 0 and has lost a turn.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has earned a chance to swap places.
+Michael is on space 0.
+Shawn is on space 66.
+Tae is on space 2.
+Alexis is on space 65.
+Jeremy is on space 57.
+Aj is on space 72.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 3 spaces.
+Michael is now on board space 3.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 4 spaces.
+Tae is now on board space 6.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 6 spaces.
+Alexis is now on board space 71.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 8 spaces.
+Jeremy is now on board space 65.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 4 spaces.
+Aj is now on board space 70.
+Michael is on space 3.
+Shawn is on space 72.
+Tae is on space 6.
+Alexis is on space 71.
+Jeremy is on space 65.
+Aj is on space 70.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 7 spaces.
+Michael is now on board space 10.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has gone over the winning square by 8.
+Shawn has gone back 8 spaces to square 65.
+Shawn has landed on Jeremy's spot.
+Jeremy has been sent back to square 0.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 1 spaces.
+Tae is now on board space 7.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has gone over the winning square by 3.
+Alexis has gone back 3 spaces to square 70.
+Alexis has landed on Aj's spot.
+Aj has been sent back to square 0.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has drawn a 0 and has lost a turn.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has earned a chance to swap places.
+Michael is on space 10.
+Shawn is on space 65.
+Tae is on space 7.
+Alexis is on space 0.
+Jeremy is on space 0.
+Aj is on space 70.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 3 spaces.
+Michael is now on board space 13.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 4 spaces.
+Tae is now on board space 11.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 6 spaces.
+Alexis is now on board space 6.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 8 spaces.
+Jeremy is now on board space 8.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 4 spaces.
+Aj is now on board space 69.
+Michael is on space 13.
+Shawn is on space 70.
+Tae is on space 11.
+Alexis is on space 6.
+Jeremy is on space 0.
+Aj is on space 69.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has advanced 7 spaces.
+Michael is now on board space 20.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has gone over the winning square by 6.
+Shawn has gone back 6 spaces to square 67.
+Shawn has earned an extra turn!
+Shawn has advanced 1 spaces.
+Shawn is now on board space 68.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 5 spaces.
+Tae is now on board space 16.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has drawn a 0 and has lost a turn.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has earned a chance to swap places.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 3 spaces.
+Aj is now on board space 3.
+Michael is on space 20.
+Shawn is on space 68.
+Tae is on space 16.
+Alexis is on space 6.
+Jeremy is on space 69.
+Aj is on space 3.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 4 spaces.
+Shawn is now on board space 72.
+Hi, this is turn 2
+It is currently Tae's turn.
+Tae has advanced 6 spaces.
+Tae is now on board space 22.
+Hi, this is turn 3
+It is currently Alexis's turn.
+Alexis has advanced 8 spaces.
+Alexis is now on board space 14.
+Hi, this is turn 4
+It is currently Jeremy's turn.
+Jeremy has advanced 4 spaces.
+Jeremy is now on board space 24.
+Hi, this is turn 5
+It is currently Aj's turn.
+Aj has advanced 7 spaces.
+Aj is now on board space 10.
+Michael is on space 69.
+Shawn is on space 72.
+Tae is on space 22.
+Alexis is on space 14.
+Jeremy is on space 20.
+Aj is on space 10.
+Hi, this is turn 0
+It is currently Michael's turn.
+Michael has gone over the winning square by 5.
+Michael has gone back 5 spaces to square 68.
+Hi, this is turn 1
+It is currently Shawn's turn.
+Shawn has advanced 1 spaces.
+Shawn is now on board space 73.
+Shawn has landed on the winning square!
