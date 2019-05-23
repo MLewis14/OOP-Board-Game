@@ -1,0 +1,1067 @@
+It is currently Tony's turn.
+Tony has drawn a 4.
+Tony has advanced 4 spaces.
+They are now on square 4.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 6.
+It is currently Michael's turn.
+Michael has drawn a 8.
+Michael has advanced 8 spaces.
+They are now on square 8.
+It is currently Shawn's turn.
+Shawn has drawn a 8.
+Shawn has advanced 8 spaces.
+They are now on square 8.
+Shawn has landed on Michael's square.Michael has been sent back to square 0.
+It is currently Alexis's turn.
+Alexis has drawn a 0 and lost a turn.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 13.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has advanced 9 spaces.
+They are now on square 15.
+It is currently Michael's turn.
+Michael has drawn a 5.
+Michael has advanced 5 spaces.
+They are now on square 5.
+Michael has encountered an obstacle.
+Michael has gone back 4 spaces.
+They are now on square 1.
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Swapping places with Justine.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has advanced 9 spaces.
+They are now on square 9.
+Alexis has encountered an obstacle.
+Alexis has gone back 2 spaces.
+They are now on square 7.
+It is currently Tony's turn.
+Tony has drawn a 8.
+Tony has advanced 8 spaces.
+They are now on square 21.
+It is currently Justine's turn.
+Justine has drawn a 5.
+Justine has advanced 5 spaces.
+They are now on square 13.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 2.
+It is currently Shawn's turn.
+Shawn has drawn a 0 and lost a turn.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has advanced 9 spaces.
+They are now on square 16.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 22.
+It is currently Justine's turn.
+Justine has earned a chance to swap places.
+Swapping places with Tony.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 8.
+It is currently Shawn's turn.
+Shawn has drawn a 2.
+Shawn has advanced 2 spaces.
+They are now on square 17.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 22.
+Alexis has landed on Justine's square.Justine has been sent back to square 0.
+It is currently Tony's turn.
+Tony has drawn a 3.
+Tony has advanced 3 spaces.
+They are now on square 16.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 1.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 17.
+Michael has landed on Shawn's square.Shawn has been sent back to square 0.
+It is currently Shawn's turn.
+Shawn has drawn a 4.
+Shawn has advanced 4 spaces.
+They are now on square 4.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 23.
+Alexis has encountered an obstacle.
+Alexis has gone back 2 spaces.
+They are now on square 21.
+It is currently Tony's turn.
+Tony has drawn a 0 and lost a turn.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has advanced 9 spaces.
+They are now on square 10.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 18.
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Swapping places with Alexis.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 10.
+Alexis has landed on Justine's square.Justine has been sent back to square 0.
+It is currently Tony's turn.
+Tony has drawn a 2.
+Tony has advanced 2 spaces.
+They are now on square 18.
+Tony has landed on Michael's square.Michael has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 6.
+It is currently Michael's turn.
+Michael has drawn a 3.
+Michael has advanced 3 spaces.
+They are now on square 3.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 22.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has advanced 9 spaces.
+They are now on square 19.
+It is currently Tony's turn.
+Tony has drawn a 4.
+Tony has advanced 4 spaces.
+They are now on square 22.
+Tony has landed on Shawn's square.Shawn has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 7.
+It is currently Michael's turn.
+Michael has drawn a 0 and lost a turn.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 9.
+Shawn has encountered an obstacle.
+Shawn has gone back 2 spaces.
+They are now on square 7.
+Shawn has landed on Justine's square.Justine has been sent back to square 0.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 20.
+It is currently Tony's turn.
+Tony has earned a chance to swap places.
+Swapping places with Tony.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 6.
+It is currently Michael's turn.
+Michael has drawn a 2.
+Michael has advanced 2 spaces.
+They are now on square 5.
+Michael has encountered an obstacle.
+Michael has gone back 5 spaces.
+They are now on square 0.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 13.
+It is currently Alexis's turn.
+Alexis has drawn a 3.
+Alexis has advanced 3 spaces.
+They are now on square 23.
+Alexis has encountered an obstacle.
+Alexis has gone back 2 spaces.
+They are now on square 21.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 23.
+Tony has encountered an obstacle.
+Tony has gone back 2 spaces.
+They are now on square 21.
+Tony has landed on Alexis's square.Alexis has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has advanced 9 spaces.
+They are now on square 15.
+It is currently Michael's turn.
+Michael has drawn a 4.
+Michael has advanced 4 spaces.
+They are now on square 4.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 14.
+Shawn has encountered an obstacle.
+Shawn has gone back 2 spaces.
+They are now on square 12.
+It is currently Alexis's turn.
+Alexis has drawn a 0 and lost a turn.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 30.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 16.
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+You are currently the farthest on the board.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 18.
+It is currently Alexis's turn.
+Alexis has drawn a 2.
+Alexis has advanced 2 spaces.
+They are now on square 2.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has advanced 6 spaces.
+They are now on square 36.
+It is currently Justine's turn.
+Justine has drawn a 3.
+Justine has advanced 3 spaces.
+They are now on square 19.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 5.
+Michael has encountered an obstacle.
+Michael has gone back 2 spaces.
+They are now on square 3.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 27.
+Shawn has encountered an obstacle.
+Shawn has gone back 2 spaces.
+They are now on square 25.
+It is currently Alexis's turn.
+Alexis has drawn a 4.
+Alexis has advanced 4 spaces.
+They are now on square 6.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 37.
+It is currently Justine's turn.
+Justine has drawn a 0 and lost a turn.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 12.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 26.
+It is currently Alexis's turn.
+Alexis has earned a chance to swap places.
+Swapping places with Tony.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has advanced 6 spaces.
+They are now on square 12.
+Tony has landed on Michael's square.Michael has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 2.
+Justine has advanced 2 spaces.
+They are now on square 21.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 6.
+It is currently Shawn's turn.
+Shawn has drawn a 3.
+Shawn has advanced 3 spaces.
+They are now on square 29.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 38.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 21.
+Tony has landed on Justine's square.Justine has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 4.
+Justine has advanced 4 spaces.
+They are now on square 4.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 7.
+It is currently Shawn's turn.
+Shawn has drawn a 0 and lost a turn.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has advanced 9 spaces.
+They are now on square 47.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 22.
+It is currently Justine's turn.
+Justine has earned a chance to swap places.
+Swapping places with Alexis.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 13.
+It is currently Shawn's turn.
+Shawn has drawn a 2.
+Shawn has advanced 2 spaces.
+They are now on square 31.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 10.
+It is currently Tony's turn.
+Tony has drawn a 3.
+Tony has advanced 3 spaces.
+They are now on square 25.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 48.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 22.
+It is currently Shawn's turn.
+Shawn has drawn a 4.
+Shawn has advanced 4 spaces.
+They are now on square 35.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 11.
+It is currently Tony's turn.
+Tony has drawn a 0 and lost a turn.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has advanced 9 spaces.
+They are now on square 57.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 23.
+Michael has encountered an obstacle.
+Michael has gone back 1 spaces.
+They are now on square 22.
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Swapping places with Justine.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 17.
+It is currently Tony's turn.
+Tony has drawn a 2.
+Tony has advanced 2 spaces.
+They are now on square 27.
+Tony has encountered an obstacle.
+Tony has gone back 5 spaces.
+They are now on square 22.
+Tony has landed on Michael's square.Michael has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 41.
+It is currently Michael's turn.
+Michael has drawn a 3.
+Michael has advanced 3 spaces.
+They are now on square 3.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 58.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has advanced 9 spaces.
+They are now on square 26.
+It is currently Tony's turn.
+Tony has drawn a 4.
+Tony has advanced 4 spaces.
+They are now on square 26.
+Tony has landed on Alexis's square.Alexis has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 42.
+It is currently Michael's turn.
+Michael has drawn a 0 and lost a turn.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 67.
+Shawn has earned an extra turn.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 68.
+Shawn has earned an extra turn.
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Swapping places with Shawn.
+Shawn has earned an extra turn.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 74.
+It is currently Alexis's turn.
+Alexis has drawn a 2.
+Alexis has advanced 2 spaces.
+They are now on square 2.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has advanced 6 spaces.
+They are now on square 32.
+Tony has encountered an obstacle.
+Tony has gone back 4 spaces.
+They are now on square 28.
+It is currently Justine's turn.
+Justine has drawn a 3.
+Justine has advanced 3 spaces.
+They are now on square 45.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 4.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 83.
+It is currently Alexis's turn.
+Alexis has drawn a 4.
+Alexis has advanced 4 spaces.
+They are now on square 6.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 29.
+It is currently Justine's turn.
+Justine has drawn a 0 and lost a turn.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 13.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 84.
+It is currently Alexis's turn.
+Alexis has earned a chance to swap places.
+Swapping places with Shawn.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has advanced 6 spaces.
+They are now on square 35.
+It is currently Justine's turn.
+Justine has drawn a 2.
+Justine has advanced 2 spaces.
+They are now on square 47.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 19.
+It is currently Shawn's turn.
+Shawn has drawn a 3.
+Shawn has advanced 3 spaces.
+They are now on square 9.
+Shawn has encountered an obstacle.
+Shawn has gone back 2 spaces.
+They are now on square 7.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 85.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 44.
+It is currently Justine's turn.
+Justine has drawn a 4.
+Justine has advanced 4 spaces.
+They are now on square 51.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 20.
+It is currently Shawn's turn.
+Shawn has drawn a 0 and lost a turn.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has gone over the winning square by1 spaces.
+They have gone back 1 spaces to square 92.
+Alexis has encountered an obstacle.
+Alexis has gone back 2 spaces.
+They are now on square 90.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 45.
+It is currently Justine's turn.
+Justine has earned a chance to swap places.
+Swapping places with Alexis.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 26.
+It is currently Shawn's turn.
+Shawn has drawn a 2.
+Shawn has advanced 2 spaces.
+They are now on square 9.
+Shawn has encountered an obstacle.
+Shawn has gone back 5 spaces.
+They are now on square 4.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 57.
+It is currently Tony's turn.
+Tony has drawn a 3.
+Tony has advanced 3 spaces.
+They are now on square 48.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 91.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 35.
+It is currently Shawn's turn.
+Shawn has drawn a 4.
+Shawn has advanced 4 spaces.
+They are now on square 8.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 58.
+It is currently Tony's turn.
+Tony has drawn a 0 and lost a turn.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has gone over the winning square by7 spaces.
+They have gone back 7 spaces to square 86.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 36.
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Swapping places with Justine.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 64.
+Alexis has encountered an obstacle.
+Alexis has gone back 5 spaces.
+They are now on square 59.
+It is currently Tony's turn.
+Tony has drawn a 2.
+Tony has advanced 2 spaces.
+They are now on square 50.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 14.
+Justine has encountered an obstacle.
+Justine has gone back 4 spaces.
+They are now on square 10.
+It is currently Michael's turn.
+Michael has drawn a 3.
+Michael has advanced 3 spaces.
+They are now on square 39.
+Michael has earned an extra turn.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 40.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has gone over the winning square by2 spaces.
+They have gone back 2 spaces to square 91.
+It is currently Alexis's turn.
+Alexis has drawn a 4.
+Alexis has advanced 4 spaces.
+They are now on square 63.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 51.
+It is currently Justine's turn.
+Justine has drawn a 0 and lost a turn.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 49.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 92.
+Shawn has encountered an obstacle.
+Shawn has gone back 1 spaces.
+They are now on square 91.
+It is currently Alexis's turn.
+Alexis has earned a chance to swap places.
+Swapping places with Shawn.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has advanced 6 spaces.
+They are now on square 57.
+It is currently Justine's turn.
+Justine has drawn a 2.
+Justine has advanced 2 spaces.
+They are now on square 12.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 55.
+It is currently Shawn's turn.
+Shawn has drawn a 3.
+Shawn has advanced 3 spaces.
+They are now on square 66.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 92.
+Alexis has encountered an obstacle.
+Alexis has gone back 2 spaces.
+They are now on square 90.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 66.
+Tony has landed on Shawn's square.Shawn has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 4.
+Justine has advanced 4 spaces.
+They are now on square 16.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 56.
+It is currently Shawn's turn.
+Shawn has drawn a 0 and lost a turn.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has gone over the winning square by6 spaces.
+They have gone back 6 spaces to square 87.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 67.
+Tony has earned an extra turn.
+It is currently Tony's turn.
+Tony has earned a chance to swap places.
+Swapping places with Alexis.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 22.
+It is currently Michael's turn.
+Michael has drawn a 2.
+Michael has advanced 2 spaces.
+They are now on square 58.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 6.
+It is currently Alexis's turn.
+Alexis has drawn a 3.
+Alexis has advanced 3 spaces.
+They are now on square 70.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 88.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has advanced 9 spaces.
+They are now on square 31.
+It is currently Michael's turn.
+Michael has drawn a 4.
+Michael has advanced 4 spaces.
+They are now on square 62.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 7.
+It is currently Alexis's turn.
+Alexis has drawn a 0 and lost a turn.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has gone over the winning square by4 spaces.
+They have gone back 4 spaces to square 89.
+It is currently Justine's turn.
+Justine has drawn a 1.
+Justine has advanced 1 spaces.
+They are now on square 32.
+Justine has encountered an obstacle.
+Justine has gone back 1 spaces.
+They are now on square 31.
+It is currently Michael's turn.
+Michael has earned a chance to swap places.
+You are currently the farthest on the board.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 13.
+It is currently Alexis's turn.
+Alexis has drawn a 2.
+Alexis has advanced 2 spaces.
+They are now on square 72.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has gone over the winning square by2 spaces.
+They have gone back 2 spaces to square 91.
+It is currently Justine's turn.
+Justine has drawn a 3.
+Justine has advanced 3 spaces.
+They are now on square 34.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 63.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 22.
+It is currently Alexis's turn.
+Alexis has drawn a 4.
+Alexis has advanced 4 spaces.
+They are now on square 76.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 92.
+Tony has encountered an obstacle.
+Tony has gone back 2 spaces.
+They are now on square 90.
+It is currently Justine's turn.
+Justine has drawn a 0 and lost a turn.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 72.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 23.
+Shawn has encountered an obstacle.
+Shawn has gone back 2 spaces.
+They are now on square 21.
+It is currently Alexis's turn.
+Alexis has earned a chance to swap places.
+Swapping places with Tony.
+It is currently Tony's turn.
+Tony has drawn a 2.
+Tony has advanced 2 spaces.
+They are now on square 78.
+It is currently Justine's turn.
+Justine has drawn a 4.
+Justine has advanced 4 spaces.
+They are now on square 38.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 73.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 27.
+Shawn has encountered an obstacle.
+Shawn has gone back 3 spaces.
+They are now on square 24.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has gone over the winning square by3 spaces.
+They have gone back 3 spaces to square 90.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 87.
+It is currently Justine's turn.
+Justine has drawn a 3.
+Justine has advanced 3 spaces.
+They are now on square 41.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 82.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 30.
+It is currently Alexis's turn.
+Alexis has drawn a 1.
+Alexis has advanced 1 spaces.
+They are now on square 91.
+It is currently Tony's turn.
+Tony has earned a chance to swap places.
+Swapping places with Alexis.
+It is currently Justine's turn.
+Justine has drawn a 7.
+Justine has advanced 7 spaces.
+They are now on square 48.
+It is currently Michael's turn.
+Michael has drawn a 4.
+Michael has advanced 4 spaces.
+They are now on square 86.
+It is currently Shawn's turn.
+Shawn has drawn a 0 and lost a turn.
+It is currently Alexis's turn.
+Alexis has drawn a 5.
+Alexis has advanced 5 spaces.
+They are now on square 92.
+Alexis has encountered an obstacle.
+Alexis has gone back 3 spaces.
+They are now on square 89.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has gone over the winning square by4 spaces.
+They have gone back 4 spaces to square 89.
+Tony has landed on Alexis's square.Alexis has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 8.
+Justine has advanced 8 spaces.
+They are now on square 56.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 92.
+Michael has encountered an obstacle.
+Michael has gone back 1 spaces.
+They are now on square 91.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 39.
+Shawn has earned an extra turn.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 48.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has advanced 6 spaces.
+They are now on square 6.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 90.
+It is currently Justine's turn.
+Justine has earned a chance to swap places.
+Swapping places with Michael.
+It is currently Michael's turn.
+Michael has drawn a 7.
+Michael has advanced 7 spaces.
+They are now on square 63.
+It is currently Shawn's turn.
+Shawn has drawn a 4.
+Shawn has advanced 4 spaces.
+They are now on square 52.
+It is currently Alexis's turn.
+Alexis has drawn a 0 and lost a turn.
+It is currently Tony's turn.
+Tony has drawn a 5.
+Tony has gone over the winning square by2 spaces.
+They have gone back 2 spaces to square 91.
+Tony has landed on Justine's square.Justine has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 6.
+Justine has landed on Alexis's square.Alexis has been sent back to square 0.
+It is currently Michael's turn.
+Michael has drawn a 8.
+Michael has advanced 8 spaces.
+They are now on square 71.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 58.
+It is currently Alexis's turn.
+Alexis has drawn a 9.
+Alexis has advanced 9 spaces.
+They are now on square 9.
+Alexis has encountered an obstacle.
+Alexis has gone back 2 spaces.
+They are now on square 7.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has gone over the winning square by7 spaces.
+They have gone back 7 spaces to square 86.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 12.
+It is currently Michael's turn.
+Michael has drawn a 1.
+Michael has advanced 1 spaces.
+They are now on square 72.
+It is currently Shawn's turn.
+Shawn has earned a chance to swap places.
+Swapping places with Tony.
+It is currently Alexis's turn.
+Alexis has drawn a 7.
+Alexis has advanced 7 spaces.
+They are now on square 14.
+Alexis has encountered an obstacle.
+Alexis has gone back 5 spaces.
+They are now on square 9.
+Alexis has encountered an obstacle.
+Alexis has gone back 3 spaces.
+They are now on square 6.
+It is currently Tony's turn.
+Tony has drawn a 4.
+Tony has advanced 4 spaces.
+They are now on square 62.
+It is currently Justine's turn.
+Justine has drawn a 0 and lost a turn.
+It is currently Michael's turn.
+Michael has drawn a 5.
+Michael has advanced 5 spaces.
+They are now on square 77.
+It is currently Shawn's turn.
+Shawn has drawn a 6.
+Shawn has advanced 6 spaces.
+They are now on square 92.
+Shawn has encountered an obstacle.
+Shawn has gone back 4 spaces.
+They are now on square 88.
+It is currently Alexis's turn.
+Alexis has drawn a 8.
+Alexis has advanced 8 spaces.
+They are now on square 14.
+Alexis has encountered an obstacle.
+Alexis has gone back 5 spaces.
+They are now on square 9.
+Alexis has encountered an obstacle.
+Alexis has gone back 5 spaces.
+They are now on square 4.
+It is currently Tony's turn.
+Tony has drawn a 6.
+Tony has advanced 6 spaces.
+They are now on square 68.
+Tony has earned an extra turn.
+It is currently Tony's turn.
+Tony has drawn a 9.
+Tony has advanced 9 spaces.
+They are now on square 77.
+Tony has landed on Michael's square.Michael has been sent back to square 0.
+It is currently Justine's turn.
+Justine has drawn a 9.
+Justine has advanced 9 spaces.
+They are now on square 21.
+It is currently Michael's turn.
+Michael has drawn a 6.
+Michael has advanced 6 spaces.
+They are now on square 6.
+It is currently Shawn's turn.
+Shawn has drawn a 1.
+Shawn has advanced 1 spaces.
+They are now on square 89.
+It is currently Alexis's turn.
+Alexis has earned a chance to swap places.
+Swapping places with Shawn.
+It is currently Tony's turn.
+Tony has drawn a 7.
+Tony has advanced 7 spaces.
+They are now on square 84.
+It is currently Justine's turn.
+Justine has drawn a 4.
+Justine has advanced 4 spaces.
+They are now on square 25.
+It is currently Michael's turn.
+Michael has drawn a 0 and lost a turn.
+It is currently Shawn's turn.
+Shawn has drawn a 5.
+Shawn has advanced 5 spaces.
+They are now on square 9.
+Shawn has encountered an obstacle.
+Shawn has gone back 3 spaces.
+They are now on square 6.
+Shawn has landed on Michael's square.Michael has been sent back to square 0.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has gone over the winning square by2 spaces.
+They have gone back 2 spaces to square 91.
+It is currently Tony's turn.
+Tony has drawn a 8.
+Tony has advanced 8 spaces.
+They are now on square 92.
+Tony has encountered an obstacle.
+Tony has gone back 5 spaces.
+They are now on square 87.
+It is currently Justine's turn.
+Justine has drawn a 6.
+Justine has advanced 6 spaces.
+They are now on square 31.
+It is currently Michael's turn.
+Michael has drawn a 9.
+Michael has advanced 9 spaces.
+They are now on square 9.
+Michael has encountered an obstacle.
+Michael has gone back 2 spaces.
+They are now on square 7.
+It is currently Shawn's turn.
+Shawn has drawn a 9.
+Shawn has advanced 9 spaces.
+They are now on square 15.
+It is currently Alexis's turn.
+Alexis has drawn a 6.
+Alexis has gone over the winning square by4 spaces.
+They have gone back 4 spaces to square 89.
+It is currently Tony's turn.
+Tony has drawn a 1.
+Tony has advanced 1 spaces.
+They are now on square 88.
+It is currently Justine's turn.
+Justine has earned a chance to swap places.
+Swapping places with Alexis.
+It is currently Michael's turn.
+Michael has drawn a 7.
+Michael has advanced 7 spaces.
+They are now on square 14.
+Michael has encountered an obstacle.
+Michael has gone back 5 spaces.
+They are now on square 9.
+Michael has encountered an obstacle.
+Michael has gone back 3 spaces.
+They are now on square 6.
+It is currently Shawn's turn.
+Shawn has drawn a 4.
+Shawn has advanced 4 spaces.
+They are now on square 19.
+It is currently Alexis's turn.
+Alexis has drawn a 0 and lost a turn.
+It is currently Tony's turn.
+Tony has drawn a 5.
+Tony has advanced 5 spaces.
+They are now on square 93.
+Tony has landed on the winning square!
+Tony has won! Game Over!
